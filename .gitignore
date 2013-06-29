@@ -1,0 +1,10 @@
+
+*.class
+
+.settings/.svn/all-wcprops
+
+.settings/.svn/entries
+
+*.svn-base
+
+Anotacoes
